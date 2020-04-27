@@ -8,14 +8,14 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.6">
     <title>Huascaran System SAC | empresa de desarrollo de sistemas, redes, soporte tecnico | Huaraz - Perú</title>
-    <link rel="icon" href="../assets/img/logo.ico" type="image/x-icon">
+    <link rel="icon" href="assets/img/logo.ico" type="image/x-icon">
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/carousel/">
     <!-- CSS Customers -->
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--GOOGLE FONT  -->
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap" rel="stylesheet">
 
@@ -24,7 +24,7 @@
 <body>
     <header>
         <nav class="navbar fixed-top navbar-expand-md navbar-light fixed-top bg-light scroll-nav">
-            <a href="index.html" class="logo text-dark" style="text-decoration: none;"><img src="../assets/img/logo.png" alt="Huascaran System" class="bg-dark rounded-circle" height="40px"> <span> HUASCARAN
+            <a href="index.html" class="logo text-dark" style="text-decoration: none;"><img src="assets/img/logo.png" alt="Huascaran System" class="bg-dark rounded-circle" height="40px"> <span> HUASCARAN
                     SYSTEM</span></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -56,7 +56,7 @@
                 </ul>
                 <ul class="navbar-nav navbar-right mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link text-primary" href="#"><img src="../assets/img/peru.png" alt="" title="ES" class="pt-3"></a>
+                        <a class="nav-link text-primary" href="#"><img src="assets/img/peru.png" alt="" title="ES" class="pt-3"></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-primary" href="#"><i class="fas fa-mobile-alt"></i>936695173</a>
@@ -86,7 +86,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../assets/img/slider1.jpg" style="width: 100%;height: 40rem;">
+                <img src="assets/img/slider1.jpg" style="width: 100%;height: 40rem;">
                 <div class="carousel-caption d-none d-md-block w-100 mb-5 descripcion-slider" style="background: rgb(0, 0, 0,0.7);margin-left: -230px;">
                     <h1 class="text-left ml-5">DESARROLLO DE SOFTWARE</h1>
                     <p class="text-left ml-5">Siempre estamos ofreciendo alta calidad y sostenibilidad. Soluciones
@@ -94,7 +94,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/slider2.jpg" style="width: 100%;height: 40rem;">
+                <img src="assets/img/slider2.jpg" style="width: 100%;height: 40rem;">
                 <div class="carousel-caption d-none d-md-block w-100 mb-5" style="background: rgb(0, 0, 0,0.7);margin-left: -230px;">
                     <h1 class="text-left ml-5">SERVICIO DE CALIDAD</h1>
                     <p class="text-left ml-5">Te ofrecemos la manera adecuada y segura la infraestructura
@@ -103,7 +103,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/slider3.jpg" style="width: 100%;height: 40rem;">
+                <img src="assets/img/slider3.jpg" style="width: 100%;height: 40rem;">
                 <div class="carousel-caption d-none d-md-block w-100 mb-5" style="background: rgb(0, 0, 0,0.7);margin-left: -230px;">
                     <h1 class="text-left ml-5">EQUIPO PROFESIONAL</h1>
                     <p class="text-left ml-5">Somos un equipo de desarrolladores de software calificados, cuyo

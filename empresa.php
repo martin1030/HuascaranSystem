@@ -80,11 +80,11 @@
                 <div class="col-md-4 mvh-img">
                     <div class="card mt-5 text-center">
                         <div class="card-header">
-                            <img src="../assets/img/logo2.png" alt="" class="w-50 h-50 bg-dark rounded-circle">
+                            <img src="assets/img/logo2.png" alt="" class="w-50 h-50 bg-dark rounded-circle">
                             <h5><strong>Huascaran System SAC</strong></h5>
                         </div>
                         <div class="card-body">
-                            <img src="../assets/img/contacto.png" alt="" style="width: 50px">
+                            <img src="assets/img/contacto.png" alt="" style="width: 50px">
                             <br>
                             <span>Cel: 936 695 173</span><br>
                             <span>Tel: (43)- 233588</span><br>
@@ -94,7 +94,7 @@
                             <a href="contacto" class="btn btn-primary btn-sm btn-block mt-1 rounded-0">Contactanos</a>
                         </div>
                     </div>
-                    <img src="../assets/img/imagen1.png" alt="" class="w-100 h-50 rounded mt-3">
+                    <img src="assets/img/imagen1.png" alt="" class="w-100 h-50 rounded mt-3">
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="../assets/img/programador.png" alt="miembro team"></p>
+                                    <p><img class=" img-fluid" src="assets/img/programador.png" alt="miembro team"></p>
                                     <h4 class="card-title">YURY MARTIN</h4>
                                     <p class="card-text">DESARROLLADOR WEB</p>
                                 </div>
@@ -139,7 +139,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="../assets/img/programador.png" alt="miembro team"></p>
+                                    <p><img class=" img-fluid" src="assets/img/programador.png" alt="miembro team"></p>
                                     <h4 class="card-title">CARLOS RAMOS</h4>
                                     <p class="card-text">This is basic card with image on top, title, description
                                         and button.</p>
@@ -168,7 +168,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="../assets/img/programador.png" alt="miembro team"></p>
+                                    <p><img class=" img-fluid" src="assets/img/programador.png" alt="miembro team"></p>
                                     <h4 class="card-title">Sunlimetech</h4>
                                     <p class="card-text">This is basic card with image on top, title, description
                                         and button.</p>
@@ -199,40 +199,40 @@
         <hr class="w-75 mt-5 mb-5">
         <div class="row">
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/java.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/java.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/html5.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/html5.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/css.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/css.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/js.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/js.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/php.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/php.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/mysql.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/mysql.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/postgresql.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/postgresql.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/mariadb.jpg" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/mariadb.jpg" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/laravel.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/laravel.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/nodejs.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/nodejs.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/vuejs.png" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/vuejs.png" alt="" class="w-75 h-100 img-fluid">
             </div>
             <div class="col-md-2 tecnologia mb-4">
-                <img src="../assets/img/spring-boot.jpg" alt="" class="w-75 h-100 img-fluid">
+                <img src="assets/img/spring-boot.jpg" alt="" class="w-75 h-100 img-fluid">
             </div>
         </div>
     </div>

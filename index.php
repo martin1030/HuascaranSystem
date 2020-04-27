@@ -9,7 +9,7 @@
             <div class="row mt-5 servicios-item1">
                 <div class="col-md-4">
                     <h4>DESARROLLO DE SOFTWARE</h4>
-                    <img src="../assets/img/software.png" alt="">
+                    <img src="assets/img/software.png" alt="">
                     <hr class="w-25">
                     <p>Desarrollamos e implementamos Sistemas de Gestión, Sistemas Industriales, ERP, Aplicaciones
                         Móviles...</p>
@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-md-4 servicios-item2">
                     <h4>SOPORTE TECNICO</h4>
-                    <img src="../assets/img/soporte-tecnico.png" alt="">
+                    <img src="assets/img/soporte-tecnico.png" alt="">
                     <hr class="w-25">
                     <p>Mantenimiento e instalación de equipo de cómputo, cámaras de seguridad, alarmas, impresoras,
                         laptops...</p>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-md-4 servicios-item3">
                     <h4>REDES INFORMATICAS</h4>
-                    <img src="../assets/img/conexion-de-red.png" alt="">
+                    <img src="assets/img/conexion-de-red.png" alt="">
                     <hr class="w-25">
                     <p>Le ofrecemos soluciones para la implementación y mantenimiento de redes que se adaptan a sus
                         necesidades...</p>
@@ -38,7 +38,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="../assets/img/imagen1.png" alt="" class="w-100 h-75 imagen-contenido" style="border-radius: 30px;">
+                    <img src="assets/img/imagen1.png" alt="" class="w-100 h-75 imagen-contenido" style="border-radius: 30px;">
                 </div>
                 <div class="col-md-6 mt-3 contenido">
                     <div class="row">
@@ -79,7 +79,7 @@
                         <div class="col-md-6 mt-3">
                             <div class="card text-center shadow">
                                 <div class="card-header">
-                                    <img src="../assets/img/logo2.png" alt="" class="w-25 h-25 bg-dark rounded-circle">
+                                    <img src="assets/img/logo2.png" alt="" class="w-25 h-25 bg-dark rounded-circle">
                                     <h5><strong>Huascaran System SAC</strong></h5>
                                 </div>
                                 <div class="card-body mt-3 mb-3">
@@ -112,7 +112,7 @@
                         <div class="frontside">
                             <div class="card bg-warning">
                                 <div class="card-body text-center">
-                                    <p><img class="img-fluid" src="../assets/img/cliente1.jpg" alt="miembro team"></p>
+                                    <p><img class="img-fluid" src="assets/img/cliente1.jpg" alt="miembro team"></p>
                                 </div>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                         <div class="frontside">
                             <div class="card bg-warning">
                                 <div class="card-body text-center">
-                                    <p><img class="img-fluid" src="../assets/img/cliente2.jpg" alt="miembro team"></p>
+                                    <p><img class="img-fluid" src="assets/img/cliente2.jpg" alt="miembro team"></p>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                         <div class="frontside">
                             <div class="card bg-warning">
                                 <div class="card-body text-center">
-                                    <p><img class="img-fluid" src="../assets/img/cliente1.jpg" alt="miembro team"></p>
+                                    <p><img class="img-fluid" src="assets/img/cliente1.jpg" alt="miembro team"></p>
                                 </div>
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                         <div class="frontside">
                             <div class="card bg-warning">
                                 <div class="card-body text-center">
-                                    <p><img class="img-fluid" src="../assets/img/cliente2.jpg" alt="miembro team"></p>
+                                    <p><img class="img-fluid" src="assets/img/cliente2.jpg" alt="miembro team"></p>
                                 </div>
                             </div>
                         </div>

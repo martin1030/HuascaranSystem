@@ -78,7 +78,7 @@
     </div>
     <hr class="bg-secondary w-75">
     <div class="text-center" style="margin-left: 500px ;margin-right: 500px">
-        <img src="../assets/img/logo2.png" alt="" class="w-25 h-25 rounded-circle bg-light ">
+        <img src="assets/img/logo2.png" alt="" class="w-25 h-25 rounded-circle bg-light ">
     </div>
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3 text-white">© 2020 Copyright:
@@ -95,7 +95,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <!--- Scroll Reveal -->
 <script src="https://unpkg.com/scrollreveal"></script>
-<script src="../assets/js/main.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 
 </html>

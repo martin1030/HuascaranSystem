@@ -8,11 +8,11 @@
                 <a href="servicios.php?service=3" class="list-group-item list-group-item-action <?php if ($_GET['service'] == 3) echo 'active' ?>">REDES INFORMATICAS</a>
                 <div class="card text-center tarjeta mt-5">
                     <div class="card-header">
-                        <img src="../assets/img/logo2.png" alt="" class="w-50 h-50 bg-dark rounded-circle">
+                        <img src="assets/img/logo2.png" alt="" class="w-50 h-50 bg-dark rounded-circle">
                         <h5><strong>Huascaran System SAC</strong></h5>
                     </div>
                     <div class="card-body">
-                        <img src="../assets/img/contacto.png" alt="" style="width: 50px">
+                        <img src="assets/img/contacto.png" alt="" style="width: 50px">
                         <br>
                         <span>Cel: 936 695 173</span><br>
                         <span>Tel: (43)- 233588</span><br>
