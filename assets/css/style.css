@@ -16,7 +16,7 @@
 
 
 .dropdown-menu {
-    width: 50em;
+    text-align: center !important;
     border: none !important;
     padding: 10px 10px 10px 10px !important;
 }
