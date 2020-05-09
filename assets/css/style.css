@@ -280,6 +280,11 @@ label {
     color: red;
 }
 
+.cosmos {
+    background-image: url(../img/cosmos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 
@@ -321,6 +326,7 @@ label {
     padding: 5px 0;
     text-align: center;
 }
+
 .box-img {
     /* width: 110px; */
     margin: 10px;
